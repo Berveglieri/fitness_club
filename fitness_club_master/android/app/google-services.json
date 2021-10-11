@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972936673672",
+    "project_id": "vcdd-5584a",
+    "storage_bucket": "vcdd-5584a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972936673672:android:9937fa1fa32d6b3a00e23d",
+        "android_client_info": {
+          "package_name": "com.example.fitness_club_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972936673672-k6d78853pl4l0187a8pjaj3edaag6mib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxF0DwN1QiRkGL7Z-Unr62MiAfwY4QfhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972936673672-k6d78853pl4l0187a8pjaj3edaag6mib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
